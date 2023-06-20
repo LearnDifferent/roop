@@ -1,3 +1,5 @@
+注：敏感图像检测调用的是 opennsfw2
+
 Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
 
 You can watch some demos [here](https://drive.google.com/drive/folders/1KHv8n_rd3Lcr2v7jBq1yPSTWM554Gq8e?usp=sharing). A StableDiffusion extension is also available, [here](https://github.com/s0md3v/sd-webui-roop).
